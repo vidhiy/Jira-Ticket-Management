@@ -1,4 +1,4 @@
-<h1>Jira-Ticket-Mangment</h1>
+<h1>Jira-Ticket-Management</h1>
 
 #Project demo
 
